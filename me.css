@@ -50,23 +50,22 @@ aside {
   padding: 0px;
   width: 60%;
   background-color: rgb(153, 214, 146); 
-<<<<<<< HEAD
   color: white
-=======
-  color: white;
 }
->>>>>>> parent of 648e7f8 (Update me.css)
 
-.discord {
+{
+.discord 
   color: blueviolet
 }
+  
+
 
 .top {
   color: white;
 }
 
 a:link {
-  color: blue;
+  color: rgb(255, 0, 0);
   background-color: transparent;
   text-decoration: none;
 }
@@ -78,13 +77,13 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(105, 151, 220);
+  color: rgb(232, 127, 22);
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: rgb(223, 223, 11);
+  color: rgb(223, 11, 11);
   background-color: transparent;
   text-decoration: underline;
 }
