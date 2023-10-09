@@ -50,7 +50,12 @@ aside {
   padding: 0px;
   width: 60%;
   background-color: rgb(153, 214, 146); 
+<<<<<<< HEAD
   color: white
+=======
+  color: white;
+}
+>>>>>>> parent of 648e7f8 (Update me.css)
 
 .discord {
   color: blueviolet
