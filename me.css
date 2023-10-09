@@ -4,7 +4,7 @@
   
   body {
     font-family: Arial;
-    background-color: wheat;
+    background-color: rgb(153, 214, 146);
   }
 
 header {
@@ -49,7 +49,7 @@ aside {
     float: right;
   padding: 0px;
   width: 60%;
-  background-color: wheat;
+  background-color: rgb(153, 214, 146); 
 }
 
 .discord {
